@@ -1,1 +1,1 @@
-# IxD-Clan-setup
+#delete  IxD-Clan-setup
